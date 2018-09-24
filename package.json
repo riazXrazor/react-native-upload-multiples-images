@@ -1,0 +1,21 @@
+{
+  "name": "react-multiple-upload-images-component",
+  "version": "1.0.0",
+  "description": "Component upload multiples images",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/yarnpkg/example-yarn-package",
+    "type": "git"
+  },
+  "author": "Edwar Amaya Diaz",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-native": "^0.57.1",
+    "react-native-image-progress": "^1.1.1",
+    "react-native-progress": "^3.5.0",
+    "react-native-ui-lib": "^3.3.239",
+    "tslint-config-airbnb": "^5.11.0"
+  }
+}
