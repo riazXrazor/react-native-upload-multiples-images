@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {StyleSheet, Dimensions, Image, TouchableOpacity, ListView} from 'react-native';
+import {StyleSheet, Dimensions, Image, TouchableOpacity} from 'react-native';
 import { View } from 'react-native-ui-lib';
 import { transparent, overlayClare } from 'services/Theme';
 import * as Progress from 'react-native-progress';

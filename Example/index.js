@@ -4,7 +4,7 @@ import {
   ,View
 } from 'react-native'
 
-import MediaPicker from 'react-native-mediapicker';
+import MediaPicker from 'react-native-upload-multiples-images';
 
 class Example extends Component {
   render() {
