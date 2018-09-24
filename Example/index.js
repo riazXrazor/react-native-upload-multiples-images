@@ -4,7 +4,7 @@ import {
   ,View
 } from 'react-native'
 
-import MediaPicker from 'react-native-upload-multiples-images';
+import MediaPicker from 'src/index';
 
 class Example extends Component {
   render() {
@@ -31,6 +31,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: 'red',
   }
-})
+});
 
 export default Example
