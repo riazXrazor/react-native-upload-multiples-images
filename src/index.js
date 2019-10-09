@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { StyleSheet, ListView, Platform, CameraRoll } from 'react-native';
 import { Colors, View, Button, Text } from 'react-native-ui-lib';
 import { APP_HEIGHT, APP_WIDTH, setWidth, acidRed, white } from './services/Theme';
-import { logException } from 'services/Utils';
+import { logException } from './services/Utils';
 import Spinner from 'react-native-loading-spinner-overlay';
 import PropTypes from 'prop-types'
 import MediaItem from './MediaItem';
